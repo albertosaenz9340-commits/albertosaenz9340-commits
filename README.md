@@ -2,16 +2,11 @@
 
 Systems Engineering Student focused on software development, databases and software quality assurance.
 
-## Technologies
+## Tech Stack
 
-- Java
-- PHP
-- C++
-- SQL
-- MySQL
-- HTML
-- CSS
-- Linux
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,php,cpp,mysql,html,css,linux,git,github,vscode" />
+</p>
 
 ## Areas of Interest
 
@@ -29,6 +24,11 @@ Systems Engineering Student focused on software development, databases and softw
 - Software Engineering Principles
 - Quality Assurance Practices
 
+## Featured Projects
+
+- Industrial Turn Management System (C++)
+- E-commerce Store (PHP + MySQL)
+
 ## Contact
 
-- LinkedIn: https://www.linkedin.com/in/alberto-mario-saenz-molina-2178a3404
+[LinkedIn](https://www.linkedin.com/in/alberto-mario-saenz-molina-2178a3404)
