@@ -1,13 +1,10 @@
 # Alberto Mario Saenz Molina
-
 Systems Engineering Student (6th semester) with technical training in Computer Programming, focused on Full-Stack development, backend technologies, databases and software quality assurance.
-
 Currently seeking my first professional opportunity in the technology field.
 
 ---
 
 ## Tech Stack
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,java,php,cpp,mysql,html,css,js,git,github,vscode,visualstudio,linux" />
 </p>
@@ -44,7 +41,6 @@ Currently seeking my first professional opportunity in the technology field.
 ---
 
 ## Areas of Interest
-
 - Backend Development
 - Full-Stack Web Development
 - Frontend Development
@@ -56,7 +52,6 @@ Currently seeking my first professional opportunity in the technology field.
 ---
 
 ## Current Focus
-
 - ASP.NET Core & C#
 - REST API Development
 - Database Modeling
@@ -68,7 +63,27 @@ Currently seeking my first professional opportunity in the technology field.
 
 ## Featured Projects
 
-### Concesionario Rally & Enduro
+### 📚 BiblioSync — Educational Library Management System
+🌐 **Live:** https://bibliosync-production.up.railway.app
+
+Full-Stack web application developed with ASP.NET Core 8, C#, Entity Framework Core and MySQL.
+Deployed on Railway with public HTTPS URL.
+
+Features:
+- JWT Authentication (8-hour tokens, in-memory storage)
+- Two-Step Password Recovery with single-use cryptographic codes (XXXX-XXXX format, 15-min expiry)
+- Role-Based Access Control (Student / Teacher / Administrator)
+- Book Catalog with real-time search (accent-insensitive, case-insensitive)
+- Transactional Loan System with pessimistic locking and concurrency control
+- Atomic stock management (UPDATE with condition — prevents negative inventory)
+- Admin Dashboard with statistics, reports and user management
+- XSS Prevention via DOM sanitization
+- SPA Frontend with Vanilla JavaScript
+- Responsive design — institutional light theme
+- BCrypt password hashing
+- REST API with 16 endpoints
+
+### 🚗 Concesionario Rally & Enduro
 Full-Stack web application developed with ASP.NET Core 8, C#, Entity Framework Core and MySQL.
 
 Features:
@@ -81,7 +96,7 @@ Features:
 - BCrypt Security
 - SPA Frontend with Vanilla JavaScript
 
-### Naturales Store
+### 🛍️ Naturales Store
 E-commerce system developed with PHP, MySQL, HTML, CSS and JavaScript.
 
 Features:
@@ -91,7 +106,7 @@ Features:
 - Purchase System
 - CRUD Operations
 
-### Travel Agency Management System
+### ✈️ Travel Agency Management System
 C++ project using:
 - Singly Linked Lists
 - Doubly Linked Lists
@@ -99,14 +114,14 @@ C++ project using:
 - Dynamic Memory
 - CRUD Operations
 
-### Aircraft Parking System
+### 🛬 Aircraft Parking System
 Java application implementing:
 - Stacks
 - Queues
 - Doubly Linked Lists
 - Dynamic Structures
 
-### Circular Double Agenda
+### 📒 Circular Double Agenda
 Java project focused on:
 - Circular Doubly Linked Lists
 - Efficient Search
@@ -116,16 +131,15 @@ Java project focused on:
 ---
 
 ## Tools & Platforms
-
 - Git & GitHub
 - Visual Studio
 - VS Code
 - MySQL Workbench
 - XAMPP
 - Linux
+- Railway (Cloud Deployment)
 
 ---
 
 ## Contact
-
 - LinkedIn: https://www.linkedin.com/in/alberto-mario-saenz-molina-2178a3404
