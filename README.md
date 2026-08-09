@@ -69,8 +69,8 @@ Currently seeking my first professional opportunity in the technology field.
 
 ## Featured Projects
 
-### 📚 BiblioSync v2.0 — Intelligent Educational Library Management System
-🌐 **Live:** https://bibliosync-production.up.railway.app
+### BiblioSync v2.0 — Intelligent Educational Library Management System
+**Live:** https://bibliosync-production.up.railway.app
 
 Full-Stack web application developed with ASP.NET Core 8, C#, SignalR, Entity Framework Core, MySQL and Cloudinary.
 Deployed on Railway with public HTTPS URL.
@@ -102,7 +102,7 @@ Deployed on Railway with public HTTPS URL.
 
 ---
 
-### 🚗 Concesionario Rally & Enduro
+### Concesionario Rally & Enduro
 Full-Stack web application developed with ASP.NET Core 8, C#, Entity Framework Core and MySQL.
 
 **Features:**
@@ -117,7 +117,7 @@ Full-Stack web application developed with ASP.NET Core 8, C#, Entity Framework C
 
 ---
 
-### 🛍️ Naturales Store
+### Naturales Store
 E-commerce system developed with PHP, MySQL, HTML, CSS and JavaScript.
 
 **Features:**
@@ -129,7 +129,7 @@ E-commerce system developed with PHP, MySQL, HTML, CSS and JavaScript.
 
 ---
 
-### ✈️ Travel Agency Management System
+### Travel Agency Management System
 C++ project using:
 - Singly Linked Lists
 - Doubly Linked Lists
@@ -139,7 +139,7 @@ C++ project using:
 
 ---
 
-### 🛬 Aircraft Parking System
+### Aircraft Parking System
 Java application implementing:
 - Stacks
 - Queues
@@ -148,7 +148,7 @@ Java application implementing:
 
 ---
 
-### 📒 Circular Double Agenda
+### Circular Double Agenda
 Java project focused on:
 - Circular Doubly Linked Lists
 - Efficient Search
